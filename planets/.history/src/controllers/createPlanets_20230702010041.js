@@ -1,0 +1,1 @@
+const Planets = require("../data")
