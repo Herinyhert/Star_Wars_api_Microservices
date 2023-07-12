@@ -23,6 +23,7 @@ El repositorio está organizado de la siguiente manera:
 4. Abre una terminal y navega hasta la carpeta raíz del proyecto.
 5. Ejecuta npm install para instalar las dependencias de Node.js.
 6. Inicia los contenedores Docker ejecutando docker-compose up -d.
+   
 Los microservicios estarán disponibles en los puertos asignados en el archivo docker-compose.yml.
 Accede a la API desde http://34.125.174.191:8000.
 
